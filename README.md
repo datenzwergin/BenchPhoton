@@ -1,7 +1,7 @@
 photon benchmark
 =================
 
-`bench` is a programme to benchmark the cryptographic hash function spongent. It reads random input data (from 12 Byte to 16 MiB) and hashes the data 10 times. The results file contains cpu information and for each input length the runtime provided by the C-function clock(). 
+`bench` is a programme to benchmark the lightweight cryptographic hash function photon. It reads random input data (from 12 Byte to 16 MiB) and hashes the data 10 times. The results file contains cpu information and for each input length the runtime provided by the C-function clock(). 
 
 
 Run
